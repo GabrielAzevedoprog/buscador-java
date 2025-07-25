@@ -1,4 +1,4 @@
-package org.example;
+package br.com.one;
 
 import com.google.gson.Gson;
 import java.io.IOException;

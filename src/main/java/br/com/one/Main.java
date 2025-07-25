@@ -1,7 +1,7 @@
-package org.example;
+package br.com.one;
 
 class Principal {
-    public static void main(String[] args) {
+    public static void main() {
 
         ConsultaCep consultaCep = new ConsultaCep();
         Endereco novoEndereco = consultaCep.buscaEndereco("01001000");
